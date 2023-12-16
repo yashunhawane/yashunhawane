@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashunhawane
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 👀 web developer
+- 🌱 MERN STACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yashunhawane@gmail.com
 
